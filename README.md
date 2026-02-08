@@ -5,12 +5,7 @@
 ![Voyage](voyage.jpg)
 
 I'm so happy you're joining me on this path. We'll be building immensely satisfying projects in the coming weeks. Some will be easy, some will be challenging, many will ASTOUND you! The projects build on each other so you develop deeper and deeper expertise each week. One thing's for sure: you're going to have a lot of fun along the way.
-
-### Before you begin
-
-I'm here to help you be most successful with your learning! If you hit any snafus, or if you have any ideas on how I can improve the course, please do reach out in the platform or by emailing me direct (ed@edwarddonner.com). It's always great to connect with people on LinkedIn to build up the community - you'll find me here:  
-https://www.linkedin.com/in/eddonner/  
-And this is new to me, but I'm also trying out X/Twitter at [@edwarddonner](https://x.com/edwarddonner) - if you're on X, please show me how it's done 😂  
+]
 
 Resources to accompany the course, including the slides and useful links, are here:  
 https://edwarddonner.com/2024/11/13/llm-engineering-resources/
@@ -106,7 +101,6 @@ The charges for the exercsies in this course should always be quite low, but if 
 2. For Anthropic: Always use model `claude-3-haiku-20240307` in the code instead of the other Claude models
 3. During week 7, look out for my instructions for using the cheaper dataset
 
-Please do message me or email me at ed@edwarddonner.com if this doesn't work or if I can help with anything. I can't wait to hear how you get on.
 
 <table style="margin: 0; text-align: left;">
     <tr>
